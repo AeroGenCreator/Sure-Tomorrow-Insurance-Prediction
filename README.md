@@ -8,7 +8,7 @@ This repository features a robust classification pipeline trained on 5,000 recor
 This repository features a comprehensive Machine Learning solution developed for the Sure Tomorrow insurance company. The project focuses on predicting client eligibility for benefits while demonstrating advanced data privacy techniques through linear algebra.
 
 🚀 Interactive Demo
-Experience the model in action and explore data correlations in real-time through the web interface: 👉 [Link to Web App]()
+Experience the model in action and explore data correlations in real-time through the web interface: 👉 [Link to Web App](https://sure-tomorrow-insurance-prediction.onrender.com)
 ![image alt](https://github.com/AeroGenCreator/Sure-Tomorrow-Insurance-Prediction/blob/main/snaps/snap_1.png)
 
 🛠️ Key Project Pillars
